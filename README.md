@@ -1,3 +1,4 @@
+commit2 to be squashed
 commit1 to be squashed
 # hello-world
 It is to test GitHub
